@@ -1,6 +1,6 @@
 name: Twister
 description: a powerful jekyll theme
-url: "https://abhilash-chandran.github.io"
+url: 
 gems: [jekyll-paginate]
 baseurl: 
 permalink: /:title/
