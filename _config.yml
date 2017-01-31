@@ -1,8 +1,8 @@
 name: Twister
 description: a powerful jekyll theme
-url: 
+url: https://abhilash-chandran.github.io
 gems: [jekyll-paginate]
-baseurl: 
+baseurl:
 permalink: /:title/
 paginate: 8
 paginate_path: /page/:num/
@@ -118,4 +118,3 @@ prose:
           label: "YouTube Video ID"
           help: "Set post type to youtube in order for this to work. Do not set featured image, as the youtube video thumbnail will be used"
           type: "text"
-
