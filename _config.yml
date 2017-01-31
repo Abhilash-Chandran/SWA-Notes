@@ -2,7 +2,7 @@ name: Twister
 description: a powerful jekyll theme
 url: http://abhilash-chandran.github.io
 gems: [jekyll-paginate]
-baseurl: 
+baseurl: twister-jekyll-theme
 permalink: /:title/
 paginate: 8
 paginate_path: /page/:num/
